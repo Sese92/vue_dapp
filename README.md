@@ -1,4 +1,4 @@
-# DAPP made with Vue.js
+# DAPP with Vue.js and Truffle Framework
 Website made with Vue.js that allow you to use your own ethereum network and make transactions with it
 
 To make a new Vue project:
