@@ -37,7 +37,9 @@ truffle migrate
 *Maybe you should run this command as administrator
 *--reset flag in case you have already deployed some contract and you want to change it
 
-If it works, you can now call your deployed contracts from the website, remember to unlock the account that you are going to use to do the transactions with the command
+If it works, you can now call your deployed contracts from the website.
+
+Remember to unlock the account that you are going to use to do the transactions from the node terminal with the command
 ```
 personal.unlockAccount(eth.accounts[i])
 ```
